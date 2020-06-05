@@ -1,0 +1,109 @@
+department,hire_month,hire_num
+Development,03,7788
+Development,05,7481
+Development,07,7358
+Development,04,7245
+Development,06,7219
+Development,08,7182
+Development,10,7041
+Development,02,6974
+Development,12,6914
+Development,09,6854
+Development,11,6851
+Development,01,6800
+Production,03,6511
+Production,04,6329
+Production,05,6321
+Production,07,6284
+Production,08,6190
+Production,06,6176
+Production,09,6055
+Production,12,6000
+Production,10,5985
+Production,02,5927
+Production,11,5908
+Production,01,5799
+Sales,03,4769
+Sales,08,4488
+Sales,05,4482
+Sales,04,4469
+Sales,07,4397
+Sales,10,4310
+Sales,12,4278
+Sales,06,4273
+Sales,02,4238
+Sales,11,4207
+Sales,01,4192
+Sales,09,4142
+Customer Service,05,2099
+Customer Service,07,2067
+Customer Service,08,2039
+Customer Service,03,2009
+Customer Service,04,2000
+Customer Service,01,1990
+Customer Service,02,1942
+Customer Service,10,1932
+Customer Service,09,1931
+Research,03,1900
+Customer Service,06,1896
+Quality Management,03,1883
+Customer Service,12,1864
+Research,04,1861
+Marketing,03,1856
+Research,08,1814
+Customer Service,11,1811
+Research,12,1792
+Quality Management,07,1791
+Marketing,08,1780
+Research,05,1763
+Research,07,1760
+Quality Management,05,1753
+Research,06,1749
+Marketing,05,1743
+Research,02,1739
+Marketing,04,1739
+Research,10,1728
+Marketing,12,1703
+Research,01,1695
+Quality Management,04,1685
+Research,09,1672
+Quality Management,08,1668
+Quality Management,10,1665
+Marketing,06,1664
+Quality Management,06,1658
+Research,11,1653
+Marketing,09,1652
+Marketing,10,1642
+Marketing,07,1642
+Quality Management,09,1634
+Marketing,11,1625
+Quality Management,02,1617
+Quality Management,01,1615
+Quality Management,12,1610
+Marketing,02,1584
+Marketing,01,1581
+Finance,05,1542
+Human Resources,03,1542
+Quality Management,11,1538
+Human Resources,09,1528
+Human Resources,07,1528
+Human Resources,08,1516
+Finance,03,1506
+Finance,07,1499
+Human Resources,05,1495
+Human Resources,12,1494
+Human Resources,04,1489
+Finance,02,1489
+Human Resources,02,1483
+Human Resources,06,1476
+Finance,10,1462
+Finance,08,1453
+Finance,12,1432
+Human Resources,11,1431
+Finance,04,1431
+Human Resources,10,1421
+Finance,06,1402
+Finance,01,1400
+Finance,09,1394
+Human Resources,01,1383
+Finance,11,1336
