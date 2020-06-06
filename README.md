@@ -65,7 +65,7 @@ There doesn't appear to be a significant difference in the hiring trends related
 
 ### Hiring trends per title per month of year
 
-For this, twelve tables were created, one for each title, with each graph showing month-of-year trends. The table that was returned, ordered by number of hires per month of year, is the following:
+The following table was created showing the total monthly hiring numbers, grouped by department/title. The table that was returned, in descending order, by number of hires per month of year, is the following:
 
 |department|hire_month|hire_num|
 |----------|----------|--------|
@@ -192,3 +192,237 @@ The bar graphs showing the trends for each title are the following:
 
 As with Hiring trends per month of year, there does not appear to be a significant difference beteen the hiring trends with regard to month-of-year for all departments.
 
+## Hiring trends per year
+
+Numbers were also gathered for number of hires per year over the last number of years. The following table shows the year along with the number of hires for that year:
+
+|hire_year|hire_num|
+|---------|--------|
+|1986|36150|
+|1985|35316|
+|1987|33501|
+|1988|31436|
+|1989|28394|
+|1990|25610|
+|1991|22568|
+|1992|20402|
+|1993|17772|
+|1994|14835|
+|1995|12115|
+|1996|9574|
+|1997|6669|
+|1998|4155|
+|1999|1514|
+|2000|13|
+
+And the corresponding bar graph is the following:
+
+![](plots/Hiring%20Trends%20by%20Year.png)
+
+
+Conclusion
+
+It appears that there was a slight right in hiring numbers on 1986 immediately followed a steady downward trend that lasted through the years 1988 to 2000, at which point hiring has all but ceased.
+
+## Hiring trends per title per year
+
+The following table was created showing the total yearly hiring numbers, grouped by department/title. The table that was returned, in descending order, by number of hires per year, is the following:
+
+|department|hire_year|hire_num|
+|----------|---------|--------|
+|Customer Service|1985|2700|
+|Customer Service|1986|2949|
+|Customer Service|1987|2585|
+|Customer Service|1988|2508|
+|Customer Service|1989|2237|
+|Customer Service|1990|2016|
+|Customer Service|1991|1812|
+|Customer Service|1992|1534|
+|Customer Service|1993|1441|
+|Customer Service|1994|1170|
+|Customer Service|1995|926|
+|Customer Service|1996|718|
+|Customer Service|1997|525|
+|Customer Service|1998|338|
+|Customer Service|1999|120|
+|Customer Service|2000|1|
+|Development|1985|10174|
+|Development|1986|10237|
+|Development|1987|9559|
+|Development|1988|8885|
+|Development|1989|8152|
+|Development|1990|7322|
+|Development|1991|6390|
+|Development|1992|5946|
+|Development|1993|5059|
+|Development|1994|4233|
+|Development|1995|3501|
+|Development|1996|2743|
+|Development|1997|1918|
+|Development|1998|1150|
+|Development|1999|435|
+|Development|2000|3|
+|Finance|1985|2044|
+|Finance|1986|2128|
+|Finance|1987|1934|
+|Finance|1988|1790|
+|Finance|1989|1684|
+|Finance|1990|1434|
+|Finance|1991|1324|
+|Finance|1992|1192|
+|Finance|1993|1001|
+|Finance|1994|875|
+|Finance|1995|699|
+|Finance|1996|534|
+|Finance|1997|376|
+|Finance|1998|241|
+|Finance|1999|89|
+|Finance|2000|1|
+|Human Resources|1985|2052|
+|Human Resources|1986|2169|
+|Human Resources|1987|1982|
+|Human Resources|1988|1835|
+|Human Resources|1989|1676|
+|Human Resources|1990|1497|
+|Human Resources|1991|1415|
+|Human Resources|1992|1182|
+|Human Resources|1993|1027|
+|Human Resources|1994|925|
+|Human Resources|1995|720|
+|Human Resources|1996|583|
+|Human Resources|1997|383|
+|Human Resources|1998|251|
+|Human Resources|1999|85|
+|Human Resources|2000|4|
+|Marketing|1985|2400|
+|Marketing|1986|2361|
+|Marketing|1987|2238|
+|Marketing|1988|2156|
+|Marketing|1989|1883|
+|Marketing|1990|1692|
+|Marketing|1991|1581|
+|Marketing|1992|1376|
+|Marketing|1993|1232|
+|Marketing|1994|1047|
+|Marketing|1995|769|
+|Marketing|1996|600|
+|Marketing|1997|461|
+|Marketing|1998|302|
+|Marketing|1999|111|
+|Marketing|2000|2|
+|Production|1985|8788|
+|Production|1986|8887|
+|Production|1987|8161|
+|Production|1988|7786|
+|Production|1989|6796|
+|Production|1990|6383|
+|Production|1991|5490|
+|Production|1992|4973|
+|Production|1993|4278|
+|Production|1994|3590|
+|Production|1995|2998|
+|Production|1996|2364|
+|Production|1997|1628|
+|Production|1998|1003|
+|Production|1999|358|
+|Production|2000|2|
+|Quality Management|1985|2381|
+|Quality Management|1986|2367|
+|Quality Management|1987|2288|
+|Quality Management|1988|2107|
+|Quality Management|1989|1914|
+|Quality Management|1990|1695|
+|Quality Management|1991|1461|
+|Quality Management|1992|1341|
+|Quality Management|1993|1201|
+|Quality Management|1994|1008|
+|Quality Management|1995|817|
+|Quality Management|1996|712|
+|Quality Management|1997|446|
+|Quality Management|1998|272|
+|Quality Management|1999|106|
+|Quality Management|2000|1|
+|Research|1985|2522|
+|Research|1986|2548|
+|Research|1987|2328|
+|Research|1988|2228|
+|Research|1989|1976|
+|Research|1990|1792|
+|Research|1991|1587|
+|Research|1992|1434|
+|Research|1993|1240|
+|Research|1994|1051|
+|Research|1995|852|
+|Research|1996|679|
+|Research|1997|489|
+|Research|1998|295|
+|Research|1999|105|
+|Sales|1985|6019|
+|Sales|1986|6359|
+|Sales|1987|5855|
+|Sales|1988|5410|
+|Sales|1989|5030|
+|Sales|1990|4497|
+|Sales|1991|3874|
+|Sales|1992|3561|
+|Sales|1993|3188|
+|Sales|1994|2564|
+|Sales|1995|2131|
+|Sales|1996|1635|
+|Sales|1997|1149|
+|Sales|1998|710|
+|Sales|1999|262|
+|Sales|2000|1|
+
+The bar graphs showing the yearly trend per title are the following:
+
+![](plots/Hiring%20Trends%20by%20Year,%20Customer%20Service%20department.png)
+![](plots/Hiring%20Trends%20by%20Year,%20Development%20department.png)
+![](plots/Hiring%20Trends%20by%20Year,%20Finance%20department.png)
+![](plots/Hiring%20Trends%20by%20Year,%20Human%20Resources%20department.png)
+![](plots/Hiring%20Trends%20by%20Year,%20Marketing%20department.png)
+![](plots/Hiring%20Trends%20by%20Year,%20Production%20department.png)
+![](plots/Hiring%20Trends%20by%20Year,%20Quality%20Management%20department.png)
+![](plots/Hiring%20Trends%20by%20Year,%20Research%20department.png)
+![](plots/Hiring%20Trends%20by%20Year,%20Sales%20department.png)
+
+### Conclusion
+
+As was observed from the overall yearly hiring trends, it can be observed from the per-title yearly trends that, with the exception of 1986, there is a steady decline in hiring across the departments.
+
+## Mentorship Eligibility
+
+In order to determine mentorship eligibility, the following tables were used:
+
+* ```employees``` and ```titles``` that were original provided as csv files
+* ```retirement planning```, a table which lists the employee numbers, and first and last names of the employees, who are not yet due to retire but who have enough experience to be able to mentor junior employees, which was created using the following script:
+
+```
+DROP TABLE IF EXISTS retirement_planning;
+
+-- Creating new table with SQL
+SELECT e.emp_no, first_name, last_name
+INTO retirement_planning
+FROM employees e
+INNER JOIN titles t
+ON t.emp_no = e.emp_no
+WHERE (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
+AND t.to_date = '9999-01-01'  -- Presently employed;
+```
+
+That returns a list of 1,549 employees.
+
+## Entity Relationship Diagrams
+
+The total number of tables, that were created as a result of loading the original CSV files and those that were created and modified by joining the already provided tables, was twelve tables.
+
+Due to the restriction of the quickdatabasedesign website that does display the ERD for more than 10 named tables, the remaining tables are generically named "table 11","table 12",etc, it was necessary to split up the ERD into three parts:
+
+* Retiree Count Per Title
+![](plots/DBD%20-%20Retiree_Count_Per_Title.png)
+
+* Hiring Trends per Title per year
+![](plots/DBD%20-%20Hiring.png)
+
+* Mentorship Eligibility
+![](plots/DBD%20-%20Mentorship-Eligibility.png)
