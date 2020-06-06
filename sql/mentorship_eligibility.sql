@@ -1,4 +1,4 @@
-DROP TABLE mentorship_eligibility;
+DROP TABLE IF EXISTS mentorship_eligibility;
 
 SELECT 	emp_no,
 		first_name,

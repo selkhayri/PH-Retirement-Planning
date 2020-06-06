@@ -1,7 +1,7 @@
-DROP TABLE hired_by_month;
-DROP TABLE hired_by_dept_month;
-DROP TABLE hired_by_year;
-DROP TABLE hired_by_dept_year;
+DROP TABLE IF EXISTS hired_by_month;
+DROP TABLE IF EXISTS hired_by_dept_month;
+DROP TABLE IF EXISTS hired_by_year;
+DROP TABLE IF EXISTS hired_by_dept_year;
 
 SELECT hire_month, COUNT(*) AS hire_num 
 INTO hired_by_month
