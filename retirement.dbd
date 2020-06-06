@@ -1,0 +1,49 @@
+Employees
+-
+emp_no int PK
+birth_date date
+first_name varchar
+last_name varchar
+gender varchar
+hire_date date
+
+Salaries
+-
+emp_no int FK - Employees.emp_no
+salary int
+from_date date
+to_date date
+
+Titles
+-
+emp_no int FK >-< Employees.emp_no
+title varchar
+from_date date
+to_date date
+
+Retirement_info_revised
+-
+emp_no int PK FK - Employees.emp_no
+first_name varchar
+last_name varchar
+
+Retirement_Planning
+-
+emp_no int FK - Employees.emp_no
+first_name varchar
+last_name varchar
+
+Retiring_Employees
+- 
+emp_no int FK - Employees.emp_no
+first_name varchar
+last_name varchar
+title varchar
+from_date date
+salary int
+
+Retiree_Counts_By_Title
+-
+title varchar FK -< Retiring_Employees.title
+retiree_count int
+
