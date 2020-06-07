@@ -426,3 +426,7 @@ Due to the restriction of the quickdatabasedesign website that does display the 
 
 * Mentorship Eligibility
 ![](plots/DBD%20-%20Mentorship-Eligibility.png)
+
+## Recommendation
+
+The requirements for this assignment were quite vague and the tools that were available for use were a limiting factor in the successful completion of the work. My recommendation is to make the requirements clearer, and to limit the scope of the assignment or make sure that the students have adequate tools to accomplish the required work.
