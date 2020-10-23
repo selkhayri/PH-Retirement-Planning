@@ -1,4 +1,4 @@
-# PH-Retirement-Planning
+# PH_Retirement_Planning
 PH planning to mitigate the impending grey tsunami
 
 The purpose of this report is to help Pewlett Hackard (PH) weather the fast approaching "silver tsunami," which is the retirement of thousands of people who will need to be replaced promptly if the operations at PH are not to suffer any disruptions due to the shortfall of the required skilled labour. The first part of this report will focus on determining the number of retiring employees grouped by business title. In order to achieve a smooth transition from older employees to newer employees, a mentoring plan needs to be implemented. The second part of this report focuses on identifying the mentorship-eligible staff, those who would be tasked with mentoring junior staff. 
